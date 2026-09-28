@@ -323,7 +323,7 @@ We welcome contributions! Please read our [Contributing Guide](CONTRIBUTING.md) 
 | [Nutritionix](https://www.nutritionix.com) | Nutrition data for foods and exercises | `apiKey` | Yes | Freemium | [Docs](https://docx.syndigo.com/developers/docs/nutritionix-api-guide) |
 | [Open Disease](https://disease.sh) | COVID-19, influenza, and disease statistics | No | Yes | Free | [Docs](https://disease.sh/docs/) |
 | [OpenFDA](https://open.fda.gov) | FDA drug, device, and food data | `apiKey` | Yes | Free | [Docs](https://open.fda.gov/apis/) |
-
+| [THC Open Mindfulness Resources API](https://api.theholisticcare.com) | Free mindfulness resources and research metadata | `No` | Yes | Free | [Docs](https://api.theholisticcare.com/docs) |
 ### Images and Photography
 
 | API | Description | Auth | CORS | Type | Docs |
